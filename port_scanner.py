@@ -6,6 +6,8 @@ import errno
 import argparse
 
 
+
+
 def parse_arguments():
     parser = argparse.ArgumentParser(
                         prog='PortScanner',
